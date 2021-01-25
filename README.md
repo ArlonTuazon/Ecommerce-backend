@@ -15,9 +15,10 @@
 
 ### Video Walkthrough
 ### Get all and Get by ID Categories, Products, Tags 
-#### https://drive.google.com/file/d/1lJ8VfmFC-9-2IXQqn5nng5xrBBRZ5P3U/view
-### Post, Put, Delete Categories, Products, Tags
-#### https://drive.google.com/file/d/1gcXLwo7VL6xntfzc7au9M2X1xsrIH-BV/view
+#### https://drive.google.com/file/d/1gpAa2tpL_idRAUdQ59s98De290m1CraI/view
+### Post, Put Categories, Products, Tags
+#### https://drive.google.com/file/d/1x_47TLl_OhsWqP6BSdrtGcxfl2Ll1i4D/view
+### Delete Category, Product, Tag
 
 ### Github URL
 #### https://github.com/ArlonTuazon/Ecommerce-backend
