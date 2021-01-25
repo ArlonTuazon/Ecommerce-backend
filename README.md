@@ -20,5 +20,7 @@
 #### https://drive.google.com/file/d/1x_47TLl_OhsWqP6BSdrtGcxfl2Ll1i4D/view
 ### Delete Category, Product, Tag
 
+### https://drive.google.com/file/d/1kVZi8k4ERljzuJmF-t8utH4pyJD_7R22/view
+
 ### Github URL
 #### https://github.com/ArlonTuazon/Ecommerce-backend
